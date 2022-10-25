@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/osazeeosareniye/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/osazee osareniye/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/itz osaze " target="blank"><img align="center"
+  <a href="https://fb.com/itz_osaze " target="blank"><img align="center"
       src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://instagram.com/iameddynics" target="blank"><img align="center"
