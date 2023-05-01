@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **osareniy.netlify.app**
+- 📫 How to reach me ** <a href="https://osareniy.netlify.app"> @ Osareniye.netlify.app </a>**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -23,13 +23,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/osareniye/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="osazee" height="30" width="40" /></a>
   <a href="https://fb.com/osazee.endurance.7" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="osazee" height="30" width="40" /></a>
   <a href="https://instagram.com/iameddynics" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="osazee" height="30" width="40" /></a>
  
  <a href="https://twitter.com/eddynics" target="blank"><img align="center"
