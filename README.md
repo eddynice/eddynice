@@ -22,17 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/osazee-osareniye/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/osareniye/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="osazee" height="30" width="40" /></a>
-  <a href="https://fb.com/itz_osaze " target="blank"><img align="center"
+  <a href="https://fb.com/osazee.endurance.7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="osazee" height="30" width="40" /></a>
   <a href="https://instagram.com/iameddynics" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="osazee" height="30" width="40" /></a>
- <img align="center"
-      src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+ <img align="center" src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="osaze" height="30" width="40" /></a>
  <a href="https://twitter.com/eddynics" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
