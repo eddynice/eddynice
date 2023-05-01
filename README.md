@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me ** <a href="https://osareniy.netlify.app"> @ Osareniye.netlify.app </a>**
+- 📫 How to reach me ** <a href="https://osareniy.netlify.app">@Osareniye.netlify.app </a>**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
