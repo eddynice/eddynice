@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **osareniyeosazee@gmail.com**
+- 📫 How to reach me **osareniy.netlify.app**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -31,8 +31,7 @@
   <a href="https://instagram.com/iameddynics" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="osazee" height="30" width="40" /></a>
- <img align="center" src="https://raw.githubusercontent.com/eddynice/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="osaze" height="30" width="40" /></a>
+ 
  <a href="https://twitter.com/eddynics" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="osaze" height="30" width="40" /></a>
@@ -99,7 +98,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eddynice-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="eddynice" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [Eddynice](https://github.com/Eddynice)
